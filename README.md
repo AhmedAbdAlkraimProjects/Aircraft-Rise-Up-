@@ -18,11 +18,11 @@
 
 # 4
 
-<img src="4.PNG">
+<img src="4.png">
 
 # 5
 
-<img src="5.PNG">
+<img src="5.png">
 
 # 7
 
